@@ -2,11 +2,8 @@
 
 This document contains
 
-* Information to access server
-* Server configuration
-* List of installed software
-* List of 3rd party resources
-
+* [Server Access & Adresses]
+* [Server configuration]
 
 ## Server Access & Adresses ##
 
