@@ -2,8 +2,8 @@
 
 This document contains
 
-* [Server Access & Adresses]
-* [Server configuration]
+* [Server Access & Adresses](server-access-&-addresses)
+* [Server configuration](server-configuration)
 
 ## Server Access & Adresses ##
 
